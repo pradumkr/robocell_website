@@ -130,7 +130,7 @@
          
           
           <li>
-            <a href="portfolio-3.html">Robo Gallery</a>
+            <a href="portfolio-3.php">Robo Gallery</a>
           </li>
           <li>
             <a href="blog.html">Blog</a>
