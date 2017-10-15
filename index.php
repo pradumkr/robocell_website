@@ -106,7 +106,7 @@
 
 							<div  class="big-title text-center" >
 								<h1><strong>About Us</strong></h1>
-								<p>This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
+								<p>We are the official Robotics Club of NIT Durgapur </p>
 							</div>
 								<div class="row">
 
@@ -440,7 +440,7 @@
 									<div class="team-member modern">
 										<!-- Memebr Photo, Name & Position -->
 										<div class="member-photo">
-											<img alt="" src="images/our team/deepak_kumar_singh.jpg" />
+											<img alt="" src="images/our team/deepak_kumar_singh_.jpg" />
 											<div class="member-name">Deepak Kumar Singh<span>Head</span>
 											</div>
 										</div>
@@ -637,14 +637,13 @@
 												<div class="portfolio-thumb">
 													<a class="lightbox" title="This is an image title" href="images/portfolio-big-01.jpg">
 														<div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
-														<img alt="" src="images/portfolio-1/2.png" />
+														<img alt="" src="images/our team/lokesh.jpg" />
 													</a>
 												</div>
 												<div class="portfolio-details">
 													<a href="#">
-														<h4>Lorem Ipsum Dolor</h4>
-														<span>Logo</span>
-														<span>Animation</span>
+														<h4>Lokesh Nandanwar</h4>
+														<span>Dept of CSE</span>
 													</a>
 												</div>
 											</div>
@@ -655,7 +654,7 @@
 												<div class="portfolio-thumb">
 													<a class="lightbox" title="This is an image title" href="images/portfolio-big-01.jpg">
 														<div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
-														<img alt="" src="images/portfolio-1/2.png" />
+														<img alt="" src="images/our team/vishal.jpg" />
 													</a>
 												</div>
 												<div class="portfolio-details">
@@ -673,7 +672,7 @@
 												<div class="portfolio-thumb">
 													<a class="lightbox" title="This is an image title" href="images/portfolio-big-01.jpg">
 														<div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
-														<img alt="" src="images/portfolio-1/2.png" />
+														<img alt="" src="images/our team/indra.jpg" />
 													</a>
 												</div>
 												<div class="portfolio-details">
@@ -691,18 +690,206 @@
 												<div class="portfolio-thumb">
 													<a class="lightbox" title="This is an image title" href="images/portfolio-big-01.jpg">
 														<div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
+														<img alt="" src="images/our team/swati.jpg" />
+													</a>
+												</div>
+												<div class="portfolio-details">
+													<a href="#">
+														<h4>Swati Kanchan</h4>
+														<span>Dept of CSE</span>
+													</a>
+												</div>
+											</div>
+										</div>
+
+										<div class="portfolio-item item">
+											<div class="portfolio-border">
+												<div class="portfolio-thumb">
+													<a class="lightbox" title="This is an image title" href="images/portfolio-big-01.jpg">
+														<div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
+														<img alt="" src="images/our team/rohan.jpg" />
+													</a>
+												</div>
+												<div class="portfolio-details">
+													<a href="#">
+														<h4>Rohan Chaudhury</h4>
+														<span>Dept of ECE</span>
+													</a>
+												</div>
+											</div>
+										</div>
+
+										<div class="portfolio-item item">
+											<div class="portfolio-border">
+												<div class="portfolio-thumb">
+													<a class="lightbox" title="This is an image title" href="images/portfolio-big-01.jpg">
+														<div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
+														<img alt="" src="images/our team/agnivesh.jpg" />
+													</a>
+												</div>
+												<div class="portfolio-details">
+													<a href="#">
+														<h4>Agnivesh Adhikari</h4>
+														<span>Dept of CSE</span>
+													</a>
+												</div>
+											</div>
+										</div>
+
+										<div class="portfolio-item item">
+											<div class="portfolio-border">
+												<div class="portfolio-thumb">
+													<a class="lightbox" title="This is an image title" href="images/portfolio-big-01.jpg">
+														<div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
+														<img alt="" src="images/our team/prachi.jpg" />
+													</a>
+												</div>
+												<div class="portfolio-details">
+													<a href="#">
+														<h4>Prachita Prachi</h4>
+														<span>Dept of EE</span>
+													</a>
+												</div>
+											</div>
+										</div>
+
+										<div class="portfolio-item item">
+											<div class="portfolio-border">
+												<div class="portfolio-thumb">
+													<a class="lightbox" title="This is an image title" href="images/portfolio-big-01.jpg">
+														<div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
+														<img alt="" src="images/our team/abodh.jpg" />
+													</a>
+												</div>
+												<div class="portfolio-details">
+													<a href="#">
+														<h4>Abodh Prasad</h4>
+														<span>Dept of MME</span>
+													</a>
+												</div>
+											</div>
+										</div>
+
+										<div class="portfolio-item item">
+											<div class="portfolio-border">
+												<div class="portfolio-thumb">
+													<a class="lightbox" title="This is an image title" href="images/portfolio-big-01.jpg">
+														<div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
+														<img alt="" src="images/our team/pradum.jpg" />
+													</a>
+												</div>
+												<div class="portfolio-details">
+													<a href="#">
+														<h4>Pradum Kumar</h4>
+														<span>Dept of CSE</span>
+													</a>
+												</div>
+											</div>
+										</div>
+
+										<div class="portfolio-item item">
+											<div class="portfolio-border">
+												<div class="portfolio-thumb">
+													<a class="lightbox" title="This is an image title" href="images/portfolio-big-01.jpg">
+														<div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
+														<img alt="" src="images/our team/reetu.jpg" />
+													</a>
+												</div>
+												<div class="portfolio-details">
+													<a href="#">
+														<h4>Reetuparna Saha</h4>
+														<span>Dept of EE</span>
+													</a>
+												</div>
+											</div>
+										</div>
+
+										<div class="portfolio-item item">
+											<div class="portfolio-border">
+												<div class="portfolio-thumb">
+													<a class="lightbox" title="This is an image title" href="images/portfolio-big-01.jpg">
+														<div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
+														<img alt="" src="images/our team/roshan.jpg" />
+													</a>
+												</div>
+												<div class="portfolio-details">
+													<a href="#">
+														<h4>Roshan Vaduri</h4>
+														<span>Dept of EE</span>
+														
+													</a>
+												</div>
+											</div>
+										</div>
+										<div class="portfolio-item item">
+											<div class="portfolio-border">
+												<div class="portfolio-thumb">
+													<a class="lightbox" title="This is an image title" href="images/portfolio-big-01.jpg">
+														<div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
 														<img alt="" src="images/portfolio-1/2.png" />
 													</a>
 												</div>
 												<div class="portfolio-details">
 													<a href="#">
-														<h4>Lorem Ipsum Dolor</h4>
-														<span>Logo</span>
-														<span>Animation</span>
+														<h4>Rupesh Das</h4>
+														<span>Dept of CSE</span>
+														
 													</a>
 												</div>
 											</div>
 										</div>
+										<div class="portfolio-item item">
+											<div class="portfolio-border">
+												<div class="portfolio-thumb">
+													<a class="lightbox" title="This is an image title" href="images/portfolio-big-01.jpg">
+														<div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
+														<img alt="" src="images/our team/sai.jpg" />
+													</a>
+												</div>
+												<div class="portfolio-details">
+													<a href="#">
+														<h4>Sai Vara Prasad</h4>
+														<span>Dept of ECE</span>
+														
+													</a>
+												</div>
+											</div>
+										</div>
+										<div class="portfolio-item item">
+											<div class="portfolio-border">
+												<div class="portfolio-thumb">
+													<a class="lightbox" title="This is an image title" href="images/portfolio-big-01.jpg">
+														<div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
+														<img alt="" src="images/our team/diwakar.jpg" />
+													</a>
+												</div>
+												<div class="portfolio-details">
+													<a href="#">
+														<h4>Diwakar Bharti</h4>
+														<span>Dept of CSE</span>
+														
+													</a>
+												</div>
+											</div>
+										</div>
+										<div class="portfolio-item item">
+											<div class="portfolio-border">
+												<div class="portfolio-thumb">
+													<a class="lightbox" title="This is an image title" href="images/portfolio-big-01.jpg">
+														<div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
+														<img alt="" src="images/portfolio-1/2.png" />
+													</a>
+												</div>
+												<div class="portfolio-details">
+													<a href="#">
+														<h4>Avinash Kumar</h4>
+														<span>Dept of ME</span>
+														
+													</a>
+												</div>
+											</div>
+										</div>
+
 
 										<div class="portfolio-item item">
 											<div class="portfolio-border">
@@ -714,135 +901,9 @@
 												</div>
 												<div class="portfolio-details">
 													<a href="#">
-														<h4>Lorem Ipsum Dolor</h4>
-														<span>Logo</span>
-														<span>Animation</span>
-													</a>
-												</div>
-											</div>
-										</div>
-
-										<div class="portfolio-item item">
-											<div class="portfolio-border">
-												<div class="portfolio-thumb">
-													<a class="lightbox" title="This is an image title" href="images/portfolio-big-01.jpg">
-														<div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
-														<img alt="" src="images/portfolio-1/2.png" />
-													</a>
-												</div>
-												<div class="portfolio-details">
-													<a href="#">
-														<h4>Lorem Ipsum Dolor</h4>
-														<span>Logo</span>
-														<span>Animation</span>
-													</a>
-												</div>
-											</div>
-										</div>
-
-										<div class="portfolio-item item">
-											<div class="portfolio-border">
-												<div class="portfolio-thumb">
-													<a class="lightbox" title="This is an image title" href="images/portfolio-big-01.jpg">
-														<div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
-														<img alt="" src="images/portfolio-1/2.png" />
-													</a>
-												</div>
-												<div class="portfolio-details">
-													<a href="#">
-														<h4>Lorem Ipsum Dolor</h4>
-														<span>Logo</span>
-														<span>Animation</span>
-													</a>
-												</div>
-											</div>
-										</div>
-
-										<div class="portfolio-item item">
-											<div class="portfolio-border">
-												<div class="portfolio-thumb">
-													<a class="lightbox" title="This is an image title" href="images/portfolio-big-01.jpg">
-														<div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
-														<img alt="" src="images/portfolio-1/2.png" />
-													</a>
-												</div>
-												<div class="portfolio-details">
-													<a href="#">
-														<h4>Lorem Ipsum Dolor</h4>
-														<span>Logo</span>
-														<span>Animation</span>
-													</a>
-												</div>
-											</div>
-										</div>
-
-										<div class="portfolio-item item">
-											<div class="portfolio-border">
-												<div class="portfolio-thumb">
-													<a class="lightbox" title="This is an image title" href="images/portfolio-big-01.jpg">
-														<div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
-														<img alt="" src="images/portfolio-1/2.png" />
-													</a>
-												</div>
-												<div class="portfolio-details">
-													<a href="#">
-														<h4>Lorem Ipsum Dolor</h4>
-														<span>Logo</span>
-														<span>Animation</span>
-													</a>
-												</div>
-											</div>
-										</div>
-
-										<div class="portfolio-item item">
-											<div class="portfolio-border">
-												<div class="portfolio-thumb">
-													<a class="lightbox" title="This is an image title" href="images/portfolio-big-01.jpg">
-														<div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
-														<img alt="" src="images/portfolio-1/2.png" />
-													</a>
-												</div>
-												<div class="portfolio-details">
-													<a href="#">
-														<h4>Lorem Ipsum Dolor</h4>
-														<span>Logo</span>
-														<span>Animation</span>
-													</a>
-												</div>
-											</div>
-										</div>
-
-										<div class="portfolio-item item">
-											<div class="portfolio-border">
-												<div class="portfolio-thumb">
-													<a class="lightbox" title="This is an image title" href="images/portfolio-big-01.jpg">
-														<div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
-														<img alt="" src="images/portfolio-1/2.png" />
-													</a>
-												</div>
-												<div class="portfolio-details">
-													<a href="#">
-														<h4>Lorem Ipsum Dolor</h4>
-														<span>Logo</span>
-														<span>Animation</span>
-													</a>
-												</div>
-											</div>
-										</div>
-
-										<div class="portfolio-item item">
-											<div class="portfolio-border">
-												<div class="portfolio-thumb">
-													<a class="lightbox" title="This is an image title" href="images/portfolio-big-01.jpg">
-														<div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
-														<img alt="" src="images/portfolio-1/2.png" />
-													</a>
-												</div>
-												<div class="portfolio-details">
-													<a href="#">
-														<h4>Lorem Ipsum Dolor</h4>
-														<span>Logo</span>
-														<span>Animation</span>
+														<h4>Shreya Shrivastava</h4>
+														<span>Dept of EE</span>
+														
 													</a>
 												</div>
 											</div>
