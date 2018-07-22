@@ -506,7 +506,7 @@
 																								<div>
 																									<div class="container">
 																										<div class="row">
-																											<div class="col-md-8">
+																											<div class="col-md-10">
 
 																												<!-- Start Recent Posts Carousel -->
 																												<div class="latest-posts">
@@ -516,7 +516,7 @@
 																														<!-- Posts 1 -->
 																														<div class="post-row item">
 																															<div class="left-meta-post">
-																																<div class="post-date"><span class="day">28</span><span class="month">Dec</span></div>
+																																<div class="post-date"><span class="day">22</span><span class="month">Jan</span></div>
 																																<div class="post-type"><i class="fa fa-gears"></i></div>
 																															</div>
 																															<h3 class="post-title"><a href="#">Manually-controlled Robot</a></h3>
@@ -528,7 +528,7 @@
 																														<!-- Posts 2 -->
 																														<div class="post-row item">
 																															<div class="left-meta-post">
-																																<div class="post-date"><span class="day">26</span><span class="month">Dec</span></div>
+																																<div class="post-date"><span class="day">22</span><span class="month">Sept</span></div>
 																																<div class="post-type"><i class="fa fa-mobile"></i></div>
 																															</div>
 																															<h3 class="post-title"><a href="#">Semi-Autonomous Robot</a></h3>
@@ -540,89 +540,19 @@
 																														<!-- Posts 3 -->
 																														<div class="post-row item">
 																															<div class="left-meta-post">
-																																<div class="post-date"><span class="day">26</span><span class="month">Dec</span></div>
+																																<div class="post-date"><span class="day">23</span><span class="month">Sept</span></div>
 																																<div class="post-type"><i class="fa fa-laptop"></i></div>
 																															</div>
-																															<h3 class="post-title"><a href="#">autonomous bot</a></h3>
+																															<h3 class="post-title"><a href="#">Autonomous Robot</a></h3>
 																															<div class="post-content">
-																																<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit. <a class="read-more" href="#">Read More...</a></p>
+																																<p> The aim of this workshop is to build an Autonomous robot having line-following, obstacle-avoiding and edge-avoiding abilities. <a class="read-more" href="#">Read More...</a></p>
 																															</div>
 																														</div>
 
-																														<!-- Posts 4 -->
-																														<div class="post-row item">
-																															<div class="left-meta-post">
-																																<div class="post-date"><span class="day">26</span><span class="month">Dec</span></div>
-																																<div class="post-type"><i class="fa fa-picture-o"></i></div>
-																															</div>
-																															<h3 class="post-title"><a href="#">image processing</a></h3>
-																															<div class="post-content">
-																																<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit. <a class="read-more" href="#">Read More...</a></p>
-																															</div>
-																														</div>
-
-																														<!-- Posts 5 -->
-																														<div class="post-row item">
-																															<div class="left-meta-post">
-																																<div class="post-date"><span class="day">26</span><span class="month">Dec</span></div>
-																																<div class="post-type"><i class="fa fa-picture-o"></i></div>
-																															</div>
-																															<h3 class="post-title"><a href="#">Standard Post without Image</a></h3>
-																															<div class="post-content">
-																																<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit. <a class="read-more" href="#">Read More...</a></p>
-																															</div>
-																														</div>
-
-																														<!-- Posts 6 -->
-																														<div class="post-row item">
-																															<div class="left-meta-post">
-																																<div class="post-date"><span class="day">26</span><span class="month">Dec</span></div>
-																																<div class="post-type"><i class="fa fa-picture-o"></i></div>
-																															</div>
-																															<h3 class="post-title"><a href="#">Iframe Audio Post</a></h3>
-																															<div class="post-content">
-																																<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit. <a class="read-more" href="#">Read More...</a></p>
-																															</div>
-																														</div>
-
-																													</div>
-																												</div>
-																												<!-- End Recent Posts Carousel -->
-
+																																														
 																											</div>
 
-																											<div class="col-md-4">
-
-																												<!-- Classic Heading -->
-																												<h4 class="classic-title"><span>Testimonials</span></h4>
-
-																												<!-- Start Testimonials Carousel -->
-																												<div class="custom-carousel show-one-slide touch-carousel" data-appeared-items="1">
-																													<!-- Testimonial 1 -->
-																													<div class="classic-testimonials item">
-																														<div class="testimonial-content">
-																															<p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-																														</div>
-																														<div class="testimonial-author"><span>John Doe</span> - Customer</div>
-																													</div>
-																													<!-- Testimonial 2 -->
-																													<div class="classic-testimonials item">
-																														<div class="testimonial-content">
-																															<p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-																														</div>
-																														<div class="testimonial-author"><span>John Doe</span> - Customer</div>
-																													</div>
-																													<!-- Testimonial 3 -->
-																													<div class="classic-testimonials item">
-																														<div class="testimonial-content">
-																															<p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-																														</div>
-																														<div class="testimonial-author"><span>John Doe</span> - Customer</div>
-																													</div>
-																												</div>
-																												<!-- End Testimonials Carousel -->
-
-																											</div>
+																											
 																										</div>
 																									</div>
 																								</div>
@@ -642,7 +572,7 @@
 																										<!-- Some Text -->
 																										<p class="text-center">The  RoboCell is extremely united in its working with each of our members working hard to realise the vision and goals of the club.
 																											<br/>Together we learn, build, learn, compete and win! Every one of us is special and contributes uniquely to the Club.</p>
-
+																											<hr><hr>
 
 																										<!-- Start Team Members -->
 																										<div class="row">
@@ -694,14 +624,14 @@
 																													<!-- Memebr Photo, Name & Position -->
 																													<div class="member-photo">
 																														<img alt="" src="images/team/face_4.png" />
-																														<div class="member-name">Lokesh Nandanwar <span>Member</span>
+																														<div class="member-name">Swati Kanchan <span>Member</span>
 																														</div>
 																													</div>
 																													<!-- Memebr Words -->
 																													<div class="member-info">
 																													</div>
 																													<!-- Start Progress Bar 1 -->
-																													<div class="progress-label">Student of B.Tech, Information Technology</div>
+																													<div class="progress-label">Student of B.Tech, Computer Science</div>
 																													<div class="progress">
 																														<div class="progress-bar progress-bar-primary" data-progress-animation="100%" data-appear-animation-delay="400">
 																															<span class="percentage"></span>
@@ -735,14 +665,14 @@
 																													<!-- Memebr Photo, Name & Position -->
 																													<div class="member-photo">
 																														<img alt="" src="images/team/face_4.png" />
-																														<div class="member-name">Lokesh Nandanwar <span>Member</span>
+																														<div class="member-name">Indrajeet Gajbhiye <span>Head</span>
 																														</div>
 																													</div>
 																													<!-- Memebr Words -->
 																													<div class="member-info">
 																													</div>
 																													<!-- Start Progress Bar 1 -->
-																													<div class="progress-label">Student of B.Tech, Information Technology</div>
+																													<div class="progress-label">Student of B.Tech, Electronics and Communication</div>
 																													<div class="progress">
 																														<div class="progress-bar progress-bar-primary" data-progress-animation="100%" data-appear-animation-delay="400">
 																															<span class="percentage"></span>
@@ -776,14 +706,14 @@
 																													<!-- Memebr Photo, Name & Position -->
 																													<div class="member-photo">
 																														<img alt="" src="images/team/face_4.png" />
-																														<div class="member-name">Lokesh Nandanwar <span>Member</span>
+																														<div class="member-name">Vishal Mandley <span>Head</span>
 																														</div>
 																													</div>
 																													<!-- Memebr Words -->
 																													<div class="member-info">
 																													</div>
 																													<!-- Start Progress Bar 1 -->
-																													<div class="progress-label">Student of B.Tech, Information Technology</div>
+																													<div class="progress-label">Student of B.Tech, Metallurgy and Material Science</div>
 																													<div class="progress">
 																														<div class="progress-bar progress-bar-primary" data-progress-animation="100%" data-appear-animation-delay="400">
 																															<span class="percentage"></span>
@@ -859,7 +789,7 @@
 																															</div>
 																															<div class="portfolio-details">
 																																<a href="#">
-																																	<h4>Lorem Ipsum Dolor</h4>
+																																	<h4>Lorem Swati Kanchan</h4>
 																																	<span>Logo</span>
 																																	<span>Animation</span>
 																																</a>
@@ -913,7 +843,7 @@
 																															</div>
 																															<div class="portfolio-details">
 																																<a href="#">
-																																	<h4>Lorem Ipsum Dolor</h4>
+																																	<h4>Lokesh Nandanwar</h4>
 																																	<span>Logo</span>
 																																	<span>Animation</span>
 																																</a>
@@ -1078,7 +1008,7 @@
 
 																										<!-- Go To Top Link -->
 																										<a href="#" class="back-to-top"><i class="fa fa-angle-up"></i></a>
-
+																										
 																										<div id="loader">
 																											<div class="spinner">
 																												<div class="dot1"></div>
@@ -1189,6 +1119,7 @@
  -->
 																									</div>
 																								</div>
+																								</div>
 
 																								<footer>
 																									<div class="container">
@@ -1211,11 +1142,9 @@
 																																<li>
 																																	<a class="facebook" href="#"><i class="fa fa-facebook"></i></a>
 																																</li>
+																														
 																																<li>
-																																	<a class="twitter" href="#"><i class="fa fa-twitter"></i></a>
-																																</li>
-																																<li>
-																																	<a class="google" href="#"><i class="fa fa-google-plus"></i></a>
+																																	<a class="instagram" href="#"><i class="fa fa-instagram"></i></a>
 																																</li>
 																																<li>
 																																	<a class="dribbble" href="#"><i class="fa fa-youtube"></i></a>
@@ -1319,13 +1248,13 @@
 																																								<ul>
 																																									<li><span>Address:</span> NIT Durgapur, West Bengal, India - 713209</li> 
 																																									<li><span>Phone Number:</span>+91 99999999999</li>
-																																									<li><span>Email:</span> info@robocell.com</li>
+																																									<li><span>Email:</span> rcnitdgp@gmail.com</li>
 																																									<li><span>Website:</span> www.robocell.com</li>
 																																								</ul>
 																																							</div>
 
 																																							<h6 class="builder" >Website by:-
-																																								<br>LOKESH NANDANWAR,<br>Dept. Of IT,NIT DURGAPUR.<span class="head-line"></span></h6>
+																																								<br>LOKESH NANDANWAR,<br>Dept. Of IT, NIT DURGAPUR.<span class="head-line"></span></h6>
 																																								</div>
 																																								<!-- .col-md-3 -->
 																																								<!-- End Contact Widget -->
@@ -1338,7 +1267,7 @@
 																																							<div class="copyright-section">
 																																								<div class="row">
 																																									<div class="col-md-6">
-																																										<p>&copy; 2016 lokesh nandanwar - All Rights Reserved  </p>
+																																										<p>&copy; 2018 lokesh nandanwar - All Rights Reserved  </p>
 																																									</div>
 																																									<!-- .col-md-6 
             <div class="col-md-6">
