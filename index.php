@@ -513,19 +513,9 @@
 																													<h4 class="classic-title"><span>UPCOMING WORKSHOPS</span></h4>
 																													<div class="latest-posts-classic custom-carousel touch-carousel" data-appeared-items="2">
 
-																														<!-- Posts 1 -->
-																														<div class="post-row item">
-																															<div class="left-meta-post">
-																																<div class="post-date"><span class="day">22</span><span class="month">Jan</span></div>
-																																<div class="post-type"><i class="fa fa-gears"></i></div>
-																															</div>
-																															<h3 class="post-title"><a href="#">Manually-controlled Robot</a></h3>
-																															<div class="post-content">
-																																<p>In this workshop we build a manually-controlled all-wheel drive bot having a hand mechanism to grip things. <a class="read-more" href="#">Read More...</a></p>
-																															</div>
-																														</div>
+																														
 
-																														<!-- Posts 2 -->
+																														<!-- Posts 1 -->
 																														<div class="post-row item">
 																															<div class="left-meta-post">
 																																<div class="post-date"><span class="day">22</span><span class="month">Sept</span></div>
@@ -537,7 +527,7 @@
 																															</div>
 																														</div>
 
-																														<!-- Posts 3 -->
+																														<!-- Posts 2 -->
 																														<div class="post-row item">
 																															<div class="left-meta-post">
 																																<div class="post-date"><span class="day">23</span><span class="month">Sept</span></div>
@@ -549,6 +539,18 @@
 																															</div>
 																														</div>
 
+																														<!-- Posts 3 -->
+																														<div class="post-row item">
+																															<div class="left-meta-post">
+																																<div class="post-date"><span class="day">22</span><span class="month">Jan</span></div>
+																																<div class="post-type"><i class="fa fa-gears"></i></div>
+																															</div>
+																															<h3 class="post-title"><a href="#">Manually-controlled Robot</a></h3>
+																															<div class="post-content">
+																																<p>In this workshop we build a manually-controlled all-wheel drive bot having a hand mechanism to grip things. <a class="read-more" href="#">Read More...</a></p>
+																															</div>
+																														</div>
+
 																																														
 																											</div>
 
@@ -557,208 +559,7 @@
 																									</div>
 																								</div>
 																								<!-- End Testimonials Section -->
-
-
-																								<!-- Start Team Member Section -->
-																								<div class="section" style="background:#fff;">
-																									<div class="container">
-
-																										<!-- Start Big Heading -->
-																										<div class="big-title text-center" data-animation="fadeInDown" data-animation-delay="01">
-																											<h1>Our Great <strong>Team</strong></h1>
-																										</div>
-																										<!-- End Big Heading -->
-
-																										<!-- Some Text -->
-																										<p class="text-center">The  RoboCell is extremely united in its working with each of our members working hard to realise the vision and goals of the club.
-																											<br/>Together we learn, build, learn, compete and win! Every one of us is special and contributes uniquely to the Club.</p>
-																											<hr><hr>
-
-																										<!-- Start Team Members -->
-																										<div class="row">
-
-																											<!-- Start Memebr 1 -->
-																											<div class="col-md-3 col-sm-6 col-xs-12" data-animation="fadeIn" data-animation-delay="04">
-																												<div class="team-member modern">
-																													<!-- Memebr Photo, Name & Position -->
-																													<div class="member-photo">
-																														<img alt="" src="images/team/face_4.png" />
-																														<div class="member-name">Lokesh Nandanwar <span>Member</span>
-																														</div>
-																													</div>
-																													<!-- Memebr Words -->
-																													<div class="member-info">
-																													</div>
-																													<!-- Start Progress Bar 1 -->
-																													<div class="progress-label">Student of B.Tech, Information Technology</div>
-																													<div class="progress">
-																														<div class="progress-bar progress-bar-primary" data-progress-animation="100%" data-appear-animation-delay="400">
-																															<span class="percentage"></span>
-																														</div>
-																													</div>
-																													<!-- Start Progress Bar 2 -->
-																													<div class="progress-label">NIT Durgapur</div>
-																													<div class="progress">
-																														<div class="progress-bar progress-bar-primary" data-progress-animation="100%" data-appear-animation-delay="800">
-																															<span class="percentage"></span>
-																														</div>
-																													</div>
-																													<!-- Memebr Social Links -->
-																													<div class="member-socail">
-																														<a class="facebook" href="#"><i class="fa fa-facebook"></i></a>
-																														<a class="twitter" href="#"><i class="fa fa-twitter"></i></a>
-																														<a class="gplus" href="#"><i class="fa fa-google-plus"></i></a>
-
-																														<!--
-                <a class="flickr" href="#"><i class="fa fa-flickr"></i></a>
-                <a class="mail" href="#"><i class="fa fa-youtube"></i></a>
-                -->
-																													</div>
-																												</div>
-																											</div>
-																											<!-- End Memebr 1 -->
-
-																											<!-- Start Memebr 2 -->
-																											<div class="col-md-3 col-sm-6 col-xs-12" data-animation="fadeIn" data-animation-delay="04">
-																												<div class="team-member modern">
-																													<!-- Memebr Photo, Name & Position -->
-																													<div class="member-photo">
-																														<img alt="" src="images/team/face_4.png" />
-																														<div class="member-name">Swati Kanchan <span>Member</span>
-																														</div>
-																													</div>
-																													<!-- Memebr Words -->
-																													<div class="member-info">
-																													</div>
-																													<!-- Start Progress Bar 1 -->
-																													<div class="progress-label">Student of B.Tech, Computer Science</div>
-																													<div class="progress">
-																														<div class="progress-bar progress-bar-primary" data-progress-animation="100%" data-appear-animation-delay="400">
-																															<span class="percentage"></span>
-																														</div>
-																													</div>
-																													<!-- Start Progress Bar 2 -->
-																													<div class="progress-label">NIT Durgapur</div>
-																													<div class="progress">
-																														<div class="progress-bar progress-bar-primary" data-progress-animation="100%" data-appear-animation-delay="800">
-																															<span class="percentage"></span>
-																														</div>
-																													</div>
-																													<!-- Memebr Social Links -->
-																													<div class="member-socail">
-																														<a class="facebook" href="#"><i class="fa fa-facebook"></i></a>
-																														<a class="twitter" href="#"><i class="fa fa-twitter"></i></a>
-																														<a class="gplus" href="#"><i class="fa fa-google-plus"></i></a>
-
-																														<!--
-                <a class="flickr" href="#"><i class="fa fa-flickr"></i></a>
-                <a class="mail" href="#"><i class="fa fa-youtube"></i></a>
-                -->
-																													</div>
-																												</div>
-																											</div>
-																											<!-- End Memebr 2 -->
-
-																											<!-- Start Memebr 3 -->
-																											<div class="col-md-3 col-sm-6 col-xs-12" data-animation="fadeIn" data-animation-delay="04">
-																												<div class="team-member modern">
-																													<!-- Memebr Photo, Name & Position -->
-																													<div class="member-photo">
-																														<img alt="" src="images/team/face_4.png" />
-																														<div class="member-name">Indrajeet Gajbhiye <span>Head</span>
-																														</div>
-																													</div>
-																													<!-- Memebr Words -->
-																													<div class="member-info">
-																													</div>
-																													<!-- Start Progress Bar 1 -->
-																													<div class="progress-label">Student of B.Tech, Electronics and Communication</div>
-																													<div class="progress">
-																														<div class="progress-bar progress-bar-primary" data-progress-animation="100%" data-appear-animation-delay="400">
-																															<span class="percentage"></span>
-																														</div>
-																													</div>
-																													<!-- Start Progress Bar 2 -->
-																													<div class="progress-label">NIT Durgapur</div>
-																													<div class="progress">
-																														<div class="progress-bar progress-bar-primary" data-progress-animation="100%" data-appear-animation-delay="800">
-																															<span class="percentage"></span>
-																														</div>
-																													</div>
-																													<!-- Memebr Social Links -->
-																													<div class="member-socail">
-																														<a class="facebook" href="#"><i class="fa fa-facebook"></i></a>
-																														<a class="twitter" href="#"><i class="fa fa-twitter"></i></a>
-																														<a class="gplus" href="#"><i class="fa fa-google-plus"></i></a>
-
-																														<!--
-                <a class="flickr" href="#"><i class="fa fa-flickr"></i></a>
-                <a class="mail" href="#"><i class="fa fa-youtube"></i></a>
-                -->
-																													</div>
-																												</div>
-																											</div>
-																											<!-- End Memebr 3 -->
-
-																											<!-- Start Memebr 4 -->
-																											<div class="col-md-3 col-sm-6 col-xs-12" data-animation="fadeIn" data-animation-delay="04">
-																												<div class="team-member modern">
-																													<!-- Memebr Photo, Name & Position -->
-																													<div class="member-photo">
-																														<img alt="" src="images/team/face_4.png" />
-																														<div class="member-name">Vishal Mandley <span>Head</span>
-																														</div>
-																													</div>
-																													<!-- Memebr Words -->
-																													<div class="member-info">
-																													</div>
-																													<!-- Start Progress Bar 1 -->
-																													<div class="progress-label">Student of B.Tech, Metallurgy and Material Science</div>
-																													<div class="progress">
-																														<div class="progress-bar progress-bar-primary" data-progress-animation="100%" data-appear-animation-delay="400">
-																															<span class="percentage"></span>
-																														</div>
-																													</div>
-																													<!-- Start Progress Bar 2 -->
-																													<div class="progress-label">NIT Durgapur</div>
-																													<div class="progress">
-																														<div class="progress-bar progress-bar-primary" data-progress-animation="100%" data-appear-animation-delay="800">
-																															<span class="percentage"></span>
-																														</div>
-																													</div>
-																													<!-- Start Progress Bar 3 -->
-																													<!--
-              <div class="progress-label">Vectors Design</div>
-              <div class="progress">
-                <div class="progress-bar progress-bar-primary" data-progress-animation="100%" data-appear-animation-delay="1200">
-                  <span class="percentage">100%</span>
-                </div>
-              </div>
-              -->
-																													<!-- Memebr Social Links -->
-																													<div class="member-socail">
-																														<a class="facebook" href="#"><i class="fa fa-facebook"></i></a>
-																														<a class="twitter" href="#"><i class="fa fa-twitter"></i></a>
-																														<a class="gplus" href="#"><i class="fa fa-google-plus"></i></a>
-
-																														<!--
-                <a class="flickr" href="#"><i class="fa fa-flickr"></i></a>
-                <a class="mail" href="#"><i class="fa fa-youtube"></i></a>
-               -->
-																													</div>
-																												</div>
-																											</div>
-																											<!-- End Memebr 4 -->
-
-																										</div>
-																										<!-- End Team Members -->
-
-																									</div>
-																									<!-- .container -->
-																								</div>
-																								<!-- End Team Member Section -->
-
-																								<!-- Start Pricing Table Section -->    <!-- End Pricing Table Section -->
+																								<hr> <hr>
 
 
 																								<!-- Start Client/Partner Section -->
@@ -784,14 +585,13 @@
 																															<div class="portfolio-thumb">
 																																<a class="lightbox" title="This is an image title" href="images/portfolio-big-01.jpg">
 																																	<div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
-																																	<img alt="" src="images/portfolio-1/2.png" />
+																																	<img alt="" src="images/members/agnivesh_bhaiya.jpg" />
 																																</a>
 																															</div>
 																															<div class="portfolio-details">
 																																<a href="#">
-																																	<h4>Lorem Swati Kanchan</h4>
-																																	<span>Logo</span>
-																																	<span>Animation</span>
+																																	<h4>Agnivesh Adhikari</h4>
+																																	<span> Dept. of CSE</span>
 																																</a>
 																															</div>
 																														</div>
@@ -802,13 +602,13 @@
 																															<div class="portfolio-thumb">
 																																<a class="lightbox" title="This is an image title" href="images/portfolio-big-01.jpg">
 																																	<div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
-																																	<img alt="" src="images/portfolio-1/2.png" />
+																																	<img alt="" src="images/members/vishal_bhaiya.jpg" />
 																																</a>
 																															</div>
 																															<div class="portfolio-details">
 																																<a href="#">
 																																	<h4>Vishal Mandley</h4>
-																																	<span>Dept of MME</span>
+																																	<span>Dept. of MME</span>
 
 																																</a>
 																															</div>
@@ -820,13 +620,13 @@
 																															<div class="portfolio-thumb">
 																																<a class="lightbox" title="This is an image title" href="images/portfolio-big-01.jpg">
 																																	<div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
-																																	<img alt="" src="images/portfolio-1/2.png" />
+																																	<img alt="" src="images/members/indra_bhaiya.jpg" />
 																																</a>
 																															</div>
 																															<div class="portfolio-details">
 																																<a href="#">
 																																	<h4>Indrajeet Gajbhiye</h4>
-																																	<span>Dept of ECE</span>
+																																	<span>Dept. of ECE</span>
 
 																																</a>
 																															</div>
@@ -838,14 +638,31 @@
 																															<div class="portfolio-thumb">
 																																<a class="lightbox" title="This is an image title" href="images/portfolio-big-01.jpg">
 																																	<div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
-																																	<img alt="" src="images/portfolio-1/2.png" />
+																																	<img alt="" src="images/members/swati_di.jpg" />
+																																</a>
+																															</div>
+																															<div class="portfolio-details">
+																																<a href="#">
+																																	<h4>Swati Kanchan</h4>
+																																	<span>Dept. of CSE</span>
+																																</a>
+																															</div>
+																														</div>
+																													</div>
+
+																													<div class="portfolio-item item">
+																														<div class="portfolio-border">
+																															<div class="portfolio-thumb">
+																																<a class="lightbox" title="This is an image title" href="images/portfolio-big-01.jpg">
+																																	<div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
+																																	<img alt="" src="images/members/lokesh_bhaiya.jpg" />
 																																</a>
 																															</div>
 																															<div class="portfolio-details">
 																																<a href="#">
 																																	<h4>Lokesh Nandanwar</h4>
-																																	<span>Logo</span>
-																																	<span>Animation</span>
+																																	<span>Dept. of IT</span>
+
 																																</a>
 																															</div>
 																														</div>
@@ -856,14 +673,13 @@
 																															<div class="portfolio-thumb">
 																																<a class="lightbox" title="This is an image title" href="images/portfolio-big-01.jpg">
 																																	<div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
-																																	<img alt="" src="images/portfolio-1/2.png" />
+																																	<img alt="" src="images/members/rohan_bhaiya.jpg" />
 																																</a>
 																															</div>
 																															<div class="portfolio-details">
 																																<a href="#">
-																																	<h4>Lorem Ipsum Dolor</h4>
-																																	<span>Logo</span>
-																																	<span>Animation</span>
+																																	<h4>Rohan Chowdhury</h4>
+																																	<span>Dept. of ECE</span>
 																																</a>
 																															</div>
 																														</div>
@@ -874,14 +690,29 @@
 																															<div class="portfolio-thumb">
 																																<a class="lightbox" title="This is an image title" href="images/portfolio-big-01.jpg">
 																																	<div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
-																																	<img alt="" src="images/portfolio-1/2.png" />
+																																	<img alt="" src="images/members/ananya_di.jpg" />
 																																</a>
 																															</div>
 																															<div class="portfolio-details">
 																																<a href="#">
-																																	<h4>Lorem Ipsum Dolor</h4>
-																																	<span>Logo</span>
-																																	<span>Animation</span>
+																																	<h4>Ananya Ghosh</h4>
+																																	<span>Dept. of EE</span>
+																																</a>
+																															</div>
+																														</div>
+																													</div>
+																													<div class="portfolio-item item">
+																														<div class="portfolio-border">
+																															<div class="portfolio-thumb">
+																																<a class="lightbox" title="This is an image title" href="images/portfolio-big-01.jpg">
+																																	<div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
+																																	<img alt="" src="images/members/abodh_bhaiya.jpg" />
+																																</a>
+																															</div>
+																															<div class="portfolio-details">
+																																<a href="#">
+																																	<h4>Abodh Prasad</h4>
+																																	<span>Dept. of MME</span>
 																																</a>
 																															</div>
 																														</div>
@@ -892,104 +723,19 @@
 																															<div class="portfolio-thumb">
 																																<a class="lightbox" title="This is an image title" href="images/portfolio-big-01.jpg">
 																																	<div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
-																																	<img alt="" src="images/portfolio-1/2.png" />
+																																	<img alt="" src="images/members/prachita_di.jpg" />
 																																</a>
 																															</div>
 																															<div class="portfolio-details">
 																																<a href="#">
-																																	<h4>Lorem Ipsum Dolor</h4>
-																																	<span>Logo</span>
-																																	<span>Animation</span>
-																																</a>
-																															</div>
-																														</div>
-																													</div>
-																													<div class="portfolio-item item">
-																														<div class="portfolio-border">
-																															<div class="portfolio-thumb">
-																																<a class="lightbox" title="This is an image title" href="images/portfolio-big-01.jpg">
-																																	<div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
-																																	<img alt="" src="images/portfolio-1/2.png" />
-																																</a>
-																															</div>
-																															<div class="portfolio-details">
-																																<a href="#">
-																																	<h4>Lorem Ipsum Dolor</h4>
-																																	<span>Logo</span>
-																																	<span>Animation</span>
+																																	<h4>Prachita Prachi</h4>
+																																	<span>Dept. of EE</span>
 																																</a>
 																															</div>
 																														</div>
 																													</div>
 
-																													<div class="portfolio-item item">
-																														<div class="portfolio-border">
-																															<div class="portfolio-thumb">
-																																<a class="lightbox" title="This is an image title" href="images/portfolio-big-01.jpg">
-																																	<div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
-																																	<img alt="" src="images/portfolio-1/2.png" />
-																																</a>
-																															</div>
-																															<div class="portfolio-details">
-																																<a href="#">
-																																	<h4>Lorem Ipsum Dolor</h4>
-																																	<span>Logo</span>
-																																	<span>Animation</span>
-																																</a>
-																															</div>
-																														</div>
-																													</div>
-
-																													<div class="portfolio-item item">
-																														<div class="portfolio-border">
-																															<div class="portfolio-thumb">
-																																<a class="lightbox" title="This is an image title" href="images/portfolio-big-01.jpg">
-																																	<div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
-																																	<img alt="" src="images/portfolio-1/2.png" />
-																																</a>
-																															</div>
-																															<div class="portfolio-details">
-																																<a href="#">
-																																	<h4>Lorem Ipsum Dolor</h4>
-																																	<span>Logo</span>
-																																	<span>Animation</span>
-																																</a>
-																															</div>
-																														</div>
-																													</div>
-																													<div class="portfolio-item item">
-																														<div class="portfolio-border">
-																															<div class="portfolio-thumb">
-																																<a class="lightbox" title="This is an image title" href="images/portfolio-big-01.jpg">
-																																	<div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
-																																	<img alt="" src="images/portfolio-1/2.png" />
-																																</a>
-																															</div>
-																															<div class="portfolio-details">
-																																<a href="#">
-																																	<h4>Lorem Ipsum Dolor</h4>
-																																	<span>Logo</span>
-																																	<span>Animation</span>
-																																</a>
-																															</div>
-																														</div>
-																													</div>
-
-																													<div class="portfolio-item item">
-																														<div class="portfolio-border">
-																															<div class="portfolio-thumb">
-																																<a class="lightbox" title="This is an image title" href="images/portfolio-big-01.jpg">
-																																	<div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
-																																	<img alt="" src="images/portfolio-1/2.png" />
-																																</a>
-																															</div>
-																															<div class="portfolio-details">
-																																<a href="#">
-																																	<h4>Lorem Ipsum Dolor</h4>
-																																	<span>Logo</span>
-																																	<span>Animation</span>
-																																</a>
-																															</div>
+																													
 																														</div>
 																													</div>
 
@@ -1267,7 +1013,7 @@
 																																							<div class="copyright-section">
 																																								<div class="row">
 																																									<div class="col-md-6">
-																																										<p>&copy; 2018 lokesh nandanwar - All Rights Reserved  </p>
+																																										<p>&copy; 2018 Lokesh Nandanwar - All Rights Reserved  </p>
 																																									</div>
 																																									<!-- .col-md-6 
             <div class="col-md-6">
