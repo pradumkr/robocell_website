@@ -81,7 +81,7 @@
     <div class="hidden-header"></div>
     <header class="clearfix">
 
-     
+      
 
       <!-- Start Header ( Logo & Naviagtion ) -->
       <div class="navbar navbar-default navbar-top">
@@ -109,6 +109,7 @@
             <ul class="nav navbar-nav navbar-right">
               <li>
                 <a href="index.html">Home</a>
+                
               </li>
               <li>
                 <a href="about.html">Robo Gallery</a>
@@ -126,19 +127,14 @@
               </li>
               <li>
                 <a href="portfolio-3.html">Workshops</a>
-                <ul class="dropdown">
-                  <li><a href="portfolio-2.html">2 Columns</a></li>
-                  <li><a href="portfolio-3.html">3 Columns</a></li>
-                  <li><a href="portfolio-4.html">4 Columns</a></li>
-                  <li><a href="single-project.html">Single Project</a></li>
-                </ul>
+                
               </li>
               <li>
                 <a href="blog.html">Events</a>
                 <ul class="dropdown">
                   <li><a href="tabs.html">RoboCity '19</a></li>
                   <li><a href="blog-left-sidebar.html">Aarohan '19</a></li>
-              
+                  
                 </ul>
               </li>
               <li><a href="contact.html">Contact Us</a></li>
@@ -147,7 +143,6 @@
           </div>
         </div>
 
-        <!-- Mobile Menu Start -->
         
 
       </div>
@@ -162,12 +157,12 @@
       <div class="container">
         <div class="row">
           <div class="col-md-6">
-            <h2>Autonomous Bots Tutorial</h2>
+            <h2>Autonomous Bots</h2>
           </div>
           <div class="col-md-6">
             <ul class="breadcrumbs">
-              <li><a href="#">Home</a></li>
-              <li>Autonomous Bots Tutorial</li>
+              <li><a href="#">Resources</a></li>
+              <li>Tutorials: Autonomous Bots</li>
             </ul>
           </div>
         </div>
@@ -179,249 +174,398 @@
     <!-- Start Content -->
     <div id="content">
       <div class="container">
-        <div class="page-content">
+        <div class="row sidebar-page">
 
-          <!-- Start Call Action -->
-          <div class="call-action call-action-boxed call-action-style1 no-descripton clearfix">
-            <!-- Call Action Button -->
-            <div class="button-side"><a href="#" class="btn-system border-btn btn-medium">Purchase It Now</a></div>
-            <!-- Call Action Text -->
-            <h2 class="primary"><strong>Margo</strong> is the best theme to create an awesome website!</h2>
+          <!-- Page Content -->
+          <div class="col-md-9 page-content">
+
+            <div class="tabs-section">
+
+              
+
+              <!-- Tab panels -->
+              <div class="tab-content">
+                
+                <!-- Tab Content 1 -->
+                <div class="tab-pane fade in active" id="tab-1">
+                  <center><img src="images/autonomous/autonomous.jpg"></center>
+                  <hr/>
+                  <p><strong class="accent-color">Autonomous Bot: </strong> An autonomous robot is a robot that is designed and engineered to deal with its environment on its own, and work for extended periods of time without human intervention. Autonomous robots often have sophisticated features that can help them to understand their physical environment and automate parts of their maintenance and direction that used to be done by human hands. </p>
+                  <p>This tutorial focuses on building an autonomous bot which will have <strong> line-following and obstacle-avoiding </strong> capabilities. </p>
+                  <p>The components required to make this type of bot are: </p>
+                  
+                  <div class="row">
+                    <div class="col-md-6">
+                      <ul class="icons-list">
+                        <li><i class="fa fa-check-circle"></i> Arduino Uno</li>  <img src="images/bluetooth/uno.jpg"> <br>
+                        <li><i class="fa fa-check-circle"></i> Breadboard</li> <img src="images/bluetooth/board.jpg">  
+                        <li><i class="fa fa-check-circle"></i> Chassis</li> <img src="images/bluetooth/chassis.jpg"> <br><br>
+                        <li><i class="fa fa-check-circle"></i> Wheels</li> <img src="images/bluetooth/wheels.jpg"> <br> <br> 
+                        <li><i class="fa fa-check-circle"></i> Jumper Wires</li> <img src="images/bluetooth/jumper.jpg"> 
+                        <hr>  
+                      </ul> 
+                    </div>
+
+                    <div class="col-md-6">
+                      <ul class="icons-list">
+                        <li><i class="fa fa-check-circle"></i> Batteries</li> <br> <img src="images/bluetooth/battery.jpg"> <br> <br>
+                        <li><i class="fa fa-check-circle"></i> 2pcs. 300rpm Motors</li> <br> <img src="images/bluetooth/motor.jpg">
+                        <li><i class="fa fa-check-circle"></i> L298 Motor Driver</li> <img src="images/bluetooth/driver.jpg"> <br> <br>
+                        <li><i class="fa fa-check-circle"></i> 3pcs. Digital IR Sensors</li> <img src="images/autonomous/ir.jpg"> <br> <br>
+                      </ul>
+                    </div>
+                  </div>  
+                  
+                   
+              </div>
+                
+              <div class="tab-pane fade in active" id="tab-2">
+                  
+                  <p><strong class="accent-color">About Digital IR sensors: </strong></p>
+      
+                  <div class="col-md-12">
+                    <ul class="icons-list">
+                      
+                      <li><i class="fa fa-check-circle"></i> This sensor helps the Bot learn about its environment through the emission and reception of IR rays. It consists of an LED (Light Emitting Diode) and an LDR (Light Dependent Resistor). </li> 
+                      <li><i class="fa fa-check-circle"></i> While there is a supply of current, the LED continuously emits IR rays and the LDR receives the reflected rays.  Based on the number of IR rays reflected and received, the nearness of an obstacle can be determined.  </li> 
+                      <li><i class="fa fa-check-circle"></i> Also, based on the number of reflected rays received, the colour of the surrounding can be approximately detected.  </li> <br> <center> <img src="images/autonomous/a.jpg"> </center> <br>
+                      <li><i class="fa fa-check-circle"></i>It is understood that the colour White almost completely reflects incident radiation, and as the colours get darker, they start absorbing more and more radiation, so that the colour Black reflects almost nothing, but absorbs all of the emitted rays. </li> 
+                      <li><i class="fa fa-check-circle"></i>Thus when the LED of the IR sensor emits the IR rays, upon striking the colour White the LDR receives all the emitted rays, and the binary value ‘1’ which stands for ‘maximum’ is returned. Similarly, upon striking the colour Black, the LDR does not receive any of the emitted rays, thus the binary value ‘0’ which stands for ‘minimum’ is detected. This is the basic principle of the Line Follower Bot.</li>
+                        
+                    </ul>
+                  </div>
+              </div> 
+              
+              <div class="tab-pane fade in active" id="tab-3">
+                <p><strong class="accent-color"> Pin Connections for the IR sensor </strong> </p>
+
+                  <div class="col-md-12">
+                    <ul class="icons-list">
+                      <li><i class="fa fa-check-circle"></i> It has 3 pins for connections, named ‘Vcc’, ‘Gnd’ and ‘Out’.  </li> <br> <center> <img src="images/autonomous/pin.png"> </center> <br>                    
+                      <li><i class=" fa fa-check-circle"></i>The Vcc pin is connected to the power supply i.e. the 5V pin of the Arduino.</li>
+                        
+                      <li><i class="fa fa-check-circle"></i> The Gnd pin is to be grounded by connecting it to the GND pin of the Arduino. </li> 
+                      <li><i class="fa fa-check-circle"></i> The Out pin is the output pin which is connected to any of the digital pins of the board.  </li>  
+                    </ul>
+                    <hr>
+                  </div>
+              </div>
+
+              <div class="tab-pane fade in active" id="tab-3">
+                <p><strong class="accent-color"> How the Black line is Followed </strong> </p>
+
+                  <div class="col-md-12">
+                    <ul class="icons-list">
+                      <li><i class="fa fa-check-circle"></i> There are 3 IR Sensors attached to the bottom of the chassis. One exactly in the middle and depending on the width of the black line to be followed, one on either side outside the black line.  </li>                    
+                      <li><i class=" fa fa-check-circle"></i>When placed over the black line, all 3 sensors will be in operation and return their readings in binary values. The serial monitor can be opened to track these values.</li> 
+                      <li><i class="fa fa-check-circle"></i> When any sensor is over a White surface, it will return 1 and when over a Black surface it will return 0.</li>  
+                    </ul>
+                    <p> <strong> The following cases are possible: </strong> </p>
+                  </div>
+                  <pre>
+(1,0,1) -> The Bot is straight on the line -> It should move forward to follow the Black line
+(0,1,1) -> The Bot has moved slightly-right -> It should move slightly-left to be on the Black line
+(1,1,0) -> The Bot has moved slightly-left -> It should move slightly-right to be on the Black line 
+(0,0,1) -> The Bot has moved sharp-right -> It should move sharp-left to be on the Black line
+(1,0,0) -> The Bot has moved sharp-left -> It should move sharp-right to be on the Black line
+(1,1,1) -> The Bot is completely off the line -> It should move right or left to find the Black line
+                  </pre>
+
+                  <center> <img src="images/autonomous/logic.png"> </center> <hr>
+
+                  <p> <strong> The following Arduino code takes care of these situations and can be used to make a line-following bot: </strong> </p>
+
+                  <pre>
+#define l 5
+#define m 6
+#define r 7
+
+void setup() {
+  pinMode(l,INPUT);
+  pinMode(m,INPUT);
+  pinMode(r,INPUT);
+  pinMode(8,OUTPUT);
+  pinMode(9,OUTPUT);
+  pinMode(10,OUTPUT);
+  pinMode(11,OUTPUT);
+  
+  Serial.begin(9600);
+}
+
+void loop() {
+
+  forward();
+  
+  Serial.print(digitalRead(l));
+  Serial.print("-----------");
+  Serial.println(digitalRead(m));
+  Serial.print("-----------");
+  Serial.println(digitalRead(r));
+  delay(100);
+
+  if(digitalRead(l)==1 && digitalRead(m)==0 && digitalRead(r)==1)
+  {
+   forward();
+  }
+
+   else if(digitalRead(l)==0 && digitalRead(m)==1 && digitalRead(r)==1)
+   {
+    left();
+   }
+
+   else if(digitalRead(l)==1 && digitalRead(m)==1 && digitalRead(r)==0)
+   {
+    right();
+   }
+
+   else if(digitalRead(l)==0 && digitalRead(m)==0 && digitalRead(r)==1)
+   {
+    sleft();
+   }
+
+   else if(digitalRead(l)==1 && digitalRead(m)==0 && digitalRead(r)==0)
+   {
+    sright();
+   }
+  
+   else if(digitalRead(l)==1 && digitalRead(m)==1 && digitalRead(r)==1)
+   {
+    right();  //default direction
+   }
+}
+
+void forward()
+{
+  digitalWrite(8,LOW);
+  digitalWrite(9,HIGH);
+  digitalWrite(10,LOW);
+  digitalWrite(11,HIGH);
+}
+
+void left()
+{
+ digitalWrite(8,LOW);
+ digitalWrite(9,LOW);
+ digitalWrite(10,LOW);
+ digitalWrite(11,HIGH); 
+}
+
+void right()
+{
+  digitalWrite(8,LOW);
+  digitalWrite(9,HIGH);
+  digitalWrite(10,LOW);
+  digitalWrite(11,LOW);
+}
+
+void sleft()
+{
+ digitalWrite(8,LOW);
+ digitalWrite(9,HIGH);
+ digitalWrite(10,LOW);
+ digitalWrite(11,HIGH); 
+}
+
+void sright()
+{
+  digitalWrite(8,HIGH);
+  digitalWrite(9,LOW);
+  digitalWrite(10,HIGH);
+  digitalWrite(11,LOW);
+}
+                  </pre>
+              </div>
+              
+
+              <!-- End Tab Panels -->
+
+            <!-- Divider -->
+            <div class="hr5" style="margin-top:45px;margin-bottom:45px;"></div>
+
+           
           </div>
-          <!-- End Call Action -->
-
-          <!-- Divider -->
-          <div class="hr1" style="margin-bottom:40px;"></div>
-
-          <!-- Start Call Action -->
-          <div class="call-action call-action-boxed call-action-style1 clearfix">
-            <!-- Call Action Button -->
-            <div class="button-side" style="margin-top:8px;"><a href="#" class="btn-system btn-large">Purchase It Now</a></div>
-            <h2 class="primary"><strong>Margo</strong> is the best theme to create an awesome website!</h2>
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
-          </div>
-          <!-- End Call Action -->
-
-          <!-- Divider -->
-          <div class="hr1" style="margin-bottom:40px;"></div>
-
-          <!-- Start Call Action -->
-          <div class="call-action call-action-boxed call-action-style1 clearfix">
-            <!-- Call Action Button -->
-            <div class="button-side" style="margin-top:8px;"><a href="#" class="btn-system border-btn btn-large"><i class="icon-gift-1"></i> See Features</a> <a href="#" class="btn-system border-btn btn-large btn-gray">Purchase It Now</a></div>
-            <!-- Call Action Text -->
-            <h2 class="primary"><strong>Margo</strong> is the best theme to create an awesome website!</h2>
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
-          </div>
-          <!-- End Call Action -->
-
-          <!-- Divider -->
-          <div class="hr1" style="margin-bottom:40px;"></div>
-
-          <!-- Start Call Action -->
-          <div class="call-action call-action-boxed call-action-style2 clearfix">
-            <!-- Call Action Button -->
-            <div class="button-side" style="margin-top:8px;"><a href="#" class="btn-system btn-large"><i class="icon-gift-1"></i> See Features</a> <a href="#" class="btn-system btn-large btn-gray"><i class="icon-basket-2"></i> Purchase It Now</a></div>
-            <!-- Call Action Text -->
-            <h2 class="primary"><strong>Margo</strong> is the best theme to create an awesome website!</h2>
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
-          </div>
-          <!-- End Call Action -->
-
-          <!-- Divider -->
-          <div class="hr1" style="margin-bottom:40px;"></div>
-
-          <!-- Start Call Action -->
-          <div class="call-action call-action-boxed call-action-style3 clearfix">
-            <!-- Call Action Button -->
-            <div class="button-side" style="margin-top:10px;"><a href="#" class="btn-system border-btn btn-medium btn-wite"><i class="icon-gift-1"></i> See Features</a> <a href="#" class="btn-system border-btn btn-medium"><i class="icon-basket"></i> Purchase It Now</a></div>
-            <!-- Call Action Text -->
-            <h2 class="primary"><strong>Margo</strong> is the best theme to create an awesome website!</h2>
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
-          </div>
-          <!-- End Call Action -->
+          <!-- End Page Content -->
 
         </div>
       </div>
     </div>
-    <!-- End Content -->
-
+  </div>
 
     <!-- Start Footer -->
     <footer>
       <div class="container">
         <div class="row footer-widgets">
 
+
           <!-- Start Subscribe & Social Links Widget -->
-          <div class="col-md-3">
+          <div class="col-md-3 col-xs-25">
             <div class="footer-widget mail-subscribe-widget">
               <h4>Get in touch<span class="head-line"></span></h4>
               <p>Join our mailing list to stay up to date and get notices about our new releases!</p>
               <form class="subscribe">
                 <input type="text" placeholder="mail@example.com">
-                <input type="submit" class="btn-system" value="Send">
-              </form>
-            </div>
-            <div class="footer-widget social-widget">
-              <h4>Follow Us<span class="head-line"></span></h4>
-              <ul class="social-icons">
-                <li>
-                  <a class="facebook" href="#"><i class="fa fa-facebook"></i></a>
-                </li>
-                <li>
-                  <a class="twitter" href="#"><i class="fa fa-twitter"></i></a>
-                </li>
-                <li>
-                  <a class="google" href="#"><i class="fa fa-google-plus"></i></a>
-                </li>
-                <li>
-                  <a class="dribbble" href="#"><i class="fa fa-dribbble"></i></a>
-                </li>
-                <li>
-                  <a class="linkdin" href="#"><i class="fa fa-linkedin"></i></a>
-                </li>
-                <li>
-                  <a class="flickr" href="#"><i class="fa fa-flickr"></i></a>
-                </li>
-                <li>
-                  <a class="tumblr" href="#"><i class="fa fa-tumblr"></i></a>
-                </li>
-                <li>
-                  <a class="instgram" href="#"><i class="fa fa-instagram"></i></a>
-                </li>
-                <li>
-                  <a class="vimeo" href="#"><i class="fa fa-vimeo-square"></i></a>
-                </li>
-                <li>
-                  <a class="skype" href="#"><i class="fa fa-skype"></i></a>
-                </li>
-              </ul>
-            </div>
-          </div>
-          <!-- .col-md-3 -->
-          <!-- End Subscribe & Social Links Widget -->
+                  <input type="submit" class="btn-system" value="Send">
+                  </form>
+                </div>
+                <div class="footer-widget social-widget">
+                  <h4>Follow Us<span class="head-line"></span></h4>
+                  <ul class="social-icons">
+                    <li>
+                      <a class="facebook" href="#"><i class="fa fa-facebook"></i></a>
+                    </li>
+                    <li>
+                      <a class="twitter" href="#"><i class="fa fa-twitter"></i></a>
+                    </li>
+                    <li>
+                      <a class="google" href="#"><i class="fa fa-google-plus"></i></a>
+                    </li>
+                    <li>
+                      <a class="dribbble" href="#"><i class="fa fa-youtube"></i></a>
+                    </li>
+                    <!--
+<li>
+<a class="linkdin" href="#"><i class="fa fa-linkedin"></i></a>
+</li>
+<li>
+<a class="flickr" href="#"><i class="fa fa-flickr"></i></a>
+</li>
+<li>
+<a class="tumblr" href="#"><i class="fa fa-tumblr"></i></a>
+</li>
+<li>
+<a class="instgram" href="#"><i class="fa fa-instagram"></i></a>
+</li>
+<li>
+<a class="vimeo" href="#"><i class="fa fa-vimeo-square"></i></a>
+</li>
+<li>
+<a class="skype" href="#"><i class="fa fa-skype"></i></a>
+</li>
+-->
+                  </ul>
+                </div>
+              </div>
+              <!-- .col-md-3 -->
+              <!-- End Subscribe & Social Links Widget -->
 
 
-          <!-- Start Twitter Widget -->
-          <div class="col-md-3">
-            <div class="footer-widget twitter-widget">
-              <h4>Twitter Feed<span class="head-line"></span></h4>
-              <ul>
-                <li>
-                  <p><a href="#">@GrayGrids </a> Lorem ipsum dolor et, consectetur adipiscing eli.</p>
-                  <span>28 February 2014</span>
-                </li>
-                <li>
-                  <p><a href="#">@GrayGrids </a> Lorem ipsum dolor et, consectetur adipiscing eli.An Fusce eleifend aliquet nis application.</p>
-                  <span>26 February 2014</span>
-                </li>
-                <li>
-                  <p><a href="#">@GrayGrids </a> Lorem ipsum dolor et, consectetur adipiscing eli.</p>
-                  <span>28 February 2014</span>
-                </li>
-              </ul>
-            </div>
-          </div>
-          <!-- .col-md-3 -->
-          <!-- End Twitter Widget -->
+              <!-- Start Twitter Widget -->
+              <!-- .col-md-3 -->   
+              <!-- End Twitter Widget -->
 
 
-          <!-- Start Flickr Widget -->
-          <div class="col-md-3">
-            <div class="footer-widget flickr-widget">
-              <h4>Flicker Feed<span class="head-line"></span></h4>
-              <ul class="flickr-list">
-                <li>
-                  <a href="images/flickr-01.jpg" class="lightbox">
-                    <img alt="" src="images/flickr-01.jpg">
-                  </a>
-                </li>
-                <li>
-                  <a href="images/flickr-02.jpg" class="lightbox">
-                    <img alt="" src="images/flickr-02.jpg">
-                  </a>
-                </li>
-                <li>
-                  <a href="images/flickr-03.jpg" class="lightbox">
-                    <img alt="" src="images/flickr-03.jpg">
-                  </a>
-                </li>
-                <li>
-                  <a href="images/flickr-04.jpg" class="lightbox">
-                    <img alt="" src="images/flickr-04.jpg">
-                  </a>
-                </li>
-                <li>
-                  <a href="images/flickr-05.jpg" class="lightbox">
-                    <img alt="" src="images/flickr-05.jpg">
-                  </a>
-                </li>
-                <li>
-                  <a href="images/flickr-06.jpg" class="lightbox">
-                    <img alt="" src="images/flickr-06.jpg">
-                  </a>
-                </li>
-                <li>
-                  <a href="images/flickr-07.jpg" class="lightbox">
-                    <img alt="" src="images/flickr-07.jpg">
-                  </a>
-                </li>
-                <li>
-                  <a href="images/flickr-08.jpg" class="lightbox">
-                    <img alt="" src="images/flickr-08.jpg">
-                  </a>
-                </li>
-                <li>
-                  <a href="images/flickr-09.jpg" class="lightbox">
-                    <img alt="" src="images/flickr-09.jpg">
-                  </a>
-                </li>
-              </ul>
-            </div>
-          </div>
-          <!-- .col-md-3 -->
-          <!-- End Flickr Widget -->
+              <!-- Start Flickr Widget -->
+              <div class="col-md-3 col-xs-12 col-lg-6">
+                <div class="footer-widget flickr-widget">
+                  <h4><a href="#" class="gall">robo gallery<span class="head-line"></span></a></h4>
+                  <ul class="flickr-list">
+                    <li>
+                      <a href="images/flickr-01.jpg" class="lightbox">
+                        <img alt="" src="images/flickr-01.jpg">
+                        </a>
+                      </li>
+                      <li>
+                        <a href="images/flickr-02.jpg" class="lightbox">
+                          <img alt="" src="images/flickr-02.jpg">
+                          </a>
+                        </li>
+                        <li>
+                          <a href="images/flickr-03.jpg" class="lightbox">
+                            <img alt="" src="images/flickr-03.jpg">
+                            </a>
+                          </li>
+                          <li>
+                            <a href="images/flickr-04.jpg" class="lightbox">
+                              <img alt="" src="images/flickr-04.jpg">
+                              </a>
+                            </li>
+                            <li>
+                              <a href="images/flickr-05.jpg" class="lightbox">
+                                <img alt="" src="images/flickr-05.jpg">
+                                </a>
+                              </li>
+                              <li>
+                                <a href="images/flickr-06.jpg" class="lightbox">
+                                  <img alt="" src="images/flickr-06.jpg">
+                                  </a>
+                                </li>
+                                <li>
+                                  <a href="images/flickr-07.jpg" class="lightbox">
+                                    <img alt="" src="images/flickr-07.jpg">
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a href="images/flickr-08.jpg" class="lightbox">
+                                      <img alt="" src="images/flickr-08.jpg">
+                                      </a>
+                                    </li>
+                                    <li>
+                                      <a href="images/flickr-09.jpg" class="lightbox">
+                                        <img alt="" src="images/flickr-09.jpg">
+                                        </a>
+                                      </li>
+                                    </ul>
+                                  </div>
+
+                                </div>
+
+                                <!-- .col-md-3 -->
+                                <!-- End Flickr Widget -->
 
 
-          <!-- Start Contact Widget -->
-          <div class="col-md-3">
-            <div class="footer-widget contact-widget">
-              <h4><img src="images/footer-margo.png" class="img-responsive" alt="Footer Logo" /></h4>
-              <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
-              <ul>
-                <li><span>Phone Number:</span> +01 234 567 890</li>
-                <li><span>Email:</span> company@company.com</li>
-                <li><span>Website:</span> www.yourdomain.com</li>
-              </ul>
-            </div>
-          </div>
-          <!-- .col-md-3 -->
-          <!-- End Contact Widget -->
+                                <!-- Start Contact Widget -->
+                                <div class="col-md-3 col-xs-12">
+                                  <div class="footer-widget contact-widget">
+                                    <h4><img src="images/robott.png" class="img-responsive" alt="Footer Logo" /></h4>
+                                    <h3> <span class="cca"> Part Of CCA</span></h3>
+                                    <ul>
+                                      <li><span>Address:</span> NIT Durgapur, West Bengal, India - 713209</li> 
+                                      <li><span>Phone Number:</span>+91 99999999999</li>
+                                      <li><span>Email:</span> info@robocell.com</li>
+                                      <li><span>Website:</span> www.robocell.com</li>
+                                    </ul>
+                                  </div>
+
+                                  <h6 class="builder" >Website by:-
+                                    <br>LOKESH NANDANWAR,<br>Dept. Of IT,NIT DURGAPUR.<span class="head-line"></span></h6>
+                                    </div>
+                                    <!-- .col-md-3 -->
+                                    <!-- End Contact Widget -->
 
 
-        </div>
-        <!-- .row -->
+                                  </div>
+                                  <!-- .row -->
 
-        <!-- Start Copyright -->
-        <div class="copyright-section">
-          <div class="row">
-            <div class="col-md-6">
-              <p>&copy; 2014 Margo - All Rights Reserved</p>
-            </div>
-            <div class="col-md-6">
-              <ul class="footer-nav">
-                <li><a href="#">Sitemap</a></li>
-                <li><a href="#">Privacy Policy</a></li>
-                <li><a href="#">Contact</a></li>
-              </ul>
-            </div>
-          </div>
-        </div>
-        <!-- End Copyright -->
+                                  <!-- Start Copyright -->
+                                  <div class="copyright-section">
+                                    <div class="row">
+                                      <div class="col-md-6">
+                                        <p>&copy; 2016 lokesh nandanwar - All Rights Reserved  </p>
+                                      </div>
+                                      <!-- .col-md-6 
+<div class="col-md-6">
+<ul class="footer-nav">
+<li><a href="#">Sitemap</a>
+</li>
+<li><a href="#">Privacy Policy</a>
+</li>
+<li><a href="#">Contact</a>
+</li>
+</ul>
 
-      </div>
-    </footer>
+-->
+                                    </div>
+                                    <!-- .col-md-6 -->
+                                  </div>
+                                  <!-- .row -->
+                                </div>
+                                <!-- End Copyright -->
+
+                              </div>
+                            </footer>
     <!-- End Footer -->
+  </div>
+  <!-- End Container -->
 
   </div>
   <!-- End Container -->
