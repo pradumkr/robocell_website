@@ -482,7 +482,7 @@
 
 																										</li>
 																										<li>
-																											<img src="images/portfolio-1/3.png" alt="" />
+																											<img src="images/aarohan.jpeg" alt="" />
 																											<div class="portfolio-item-content">
 																												<span class="header">AAROHAN</span>
 																												<p class="body">FEBRUARY 2019</p>
