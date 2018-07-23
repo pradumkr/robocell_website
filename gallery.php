@@ -6,7 +6,7 @@
 <head>
 
   <!-- Basic -->
-  <title>Margo | Portfolio</title>
+  <title>RoboCell | Robo Gallery</title>
 
   <!-- Define Charset -->
   <meta charset="utf-8">
@@ -81,62 +81,7 @@
     <div class="hidden-header"></div>
     <header class="clearfix">
 
-      <!-- Start Top Bar -->
-      <div class="top-bar">
-        <div class="container">
-          <div class="row">
-            <div class="col-md-6">
-              <!-- Start Contact Info -->
-              <ul class="contact-details">
-                <li><a href="#"><i class="fa fa-map-marker"></i> House-54/A, London, UK</a>
-                </li>
-                <li><a href="#"><i class="fa fa-envelope-o"></i> info@yourcompany.com</a>
-                </li>
-                <li><a href="#"><i class="fa fa-phone"></i> +12 345 678 000</a>
-                </li>
-              </ul>
-              <!-- End Contact Info -->
-            </div>
-            <div class="col-md-6">
-              <!-- Start Social Links -->
-              <ul class="social-list">
-                <li>
-                  <a class="facebook itl-tooltip" data-placement="bottom" title="Facebook" href="#"><i class="fa fa-facebook"></i></a>
-                </li>
-                <li>
-                  <a class="twitter itl-tooltip" data-placement="bottom" title="Twitter" href="#"><i class="fa fa-twitter"></i></a>
-                </li>
-                <li>
-                  <a class="google itl-tooltip" data-placement="bottom" title="Google Plus" href="#"><i class="fa fa-google-plus"></i></a>
-                </li>
-                <li>
-                  <a class="dribbble itl-tooltip" data-placement="bottom" title="Dribble" href="#"><i class="fa fa-dribbble"></i></a>
-                </li>
-                <li>
-                  <a class="linkdin itl-tooltip" data-placement="bottom" title="Linkedin" href="#"><i class="fa fa-linkedin"></i></a>
-                </li>
-                <li>
-                  <a class="flickr itl-tooltip" data-placement="bottom" title="Flickr" href="#"><i class="fa fa-flickr"></i></a>
-                </li>
-                <li>
-                  <a class="tumblr itl-tooltip" data-placement="bottom" title="Tumblr" href="#"><i class="fa fa-tumblr"></i></a>
-                </li>
-                <li>
-                  <a class="instgram itl-tooltip" data-placement="bottom" title="Instagram" href="#"><i class="fa fa-instagram"></i></a>
-                </li>
-                <li>
-                  <a class="vimeo itl-tooltip" data-placement="bottom" title="vimeo" href="#"><i class="fa fa-vimeo-square"></i></a>
-                </li>
-                <li>
-                  <a class="skype itl-tooltip" data-placement="bottom" title="Skype" href="#"><i class="fa fa-skype"></i></a>
-                </li>
-              </ul>
-              <!-- End Social Links -->
-            </div>
-          </div>
-        </div>
-      </div>
-      <!-- End Top Bar -->
+     
 
       <!-- Start Header ( Logo & Naviagtion ) -->
       <div class="navbar navbar-default navbar-top">
@@ -147,7 +92,7 @@
               <i class="fa fa-bars"></i>
             </button>
             <!-- End Toggle Nav Link For Mobiles -->
-            <a class="navbar-brand" href="index.html"><img alt="" src="images/margo.png"></a>
+            <a class="navbar-brand" href="index.html"><img alt="" src="images/robon.png"></a>
           </div>
           <div class="navbar-collapse collapse">
             <!-- Start Search -->
@@ -164,60 +109,34 @@
             <ul class="nav navbar-nav navbar-right">
               <li>
                 <a href="index.html">Home</a>
+                
+              </li>
+              <li>
+                <a class= "active" href="about.html">Robo Gallery</a>
+                
+              </li>
+              <li>
+                <a href="#">Tutorials</a>
                 <ul class="dropdown">
-                  <li><a href="index.html">Home Main Version</a></li>
-                  <li><a href="index-01.html">Home Version 1</a></li>
-                  <li><a href="index-02.html">Home Version 2</a></li>
-                  <li><a href="index-03.html">Home Version 3</a></li>
-                  <li><a href="index-04.html">Home Version 4</a></li>
-                  <li><a href="index-05.html">Home Version 5</a></li>
-                  <li><a href="index-06.html">Home Version 6</a></li>
-                  <li><a href="index-07.html">Home Version 7</a></li>
-                  <li><a href="index-08.html">Home Version 8</a></li>
+                  <li><a href="tabs.html">Mechanical Bots</a></li>
+                  <li><a href="buttons.html">Semi-Autonomous Bots</a></li>
+                  <li><a href="action-box.html">Autonomous Bots</a></li>
+                  <li><a href="testimonials.html">Useful Links</a></li>
                 </ul>
               </li>
               <li>
-                <a href="about.html">Pages</a>
-                <ul class="dropdown">
-                  <li><a href="about.html">About</a></li>
-                  <li><a href="services.html">Services</a></li>
-                  <li><a href="right-sidebar.html">Right Sidebar</a></li>
-                  <li><a href="left-sidebar.html">Left Sidebar</a></li>
-                  <li><a href="404.html">404 Page</a></li>
-                </ul>
+                <a href="portfolio-3.html">Workshops</a>
+                
               </li>
+              
               <li>
-                <a href="#">Shortcodes</a>
+                <a href="#">Events</a>
                 <ul class="dropdown">
-                  <li><a href="tabs.html">Tabs</a></li>
-                  <li><a href="buttons.html">Buttons</a></li>
-                  <li><a href="action-box.html">Action Box</a></li>
-                  <li><a href="testimonials.html">Testimonials</a></li>
-                  <li><a href="latest-posts.html">Latest Posts</a></li>
-                  <li><a href="latest-projects.html">Latest Projects</a></li>
-                  <li><a href="pricing.html">Pricing Tables</a></li>
-                  <li><a href="animated-graphs.html">Animated Graphs</a></li>
-                  <li><a href="accordion-toggles.html">Accordion & Toggles</a></li>
+                  <li><a href="tabs.html">Robocity '19</a></li>
+                  <li><a href="buttons.html">Aarohan '19</a></li>
                 </ul>
               </li>
-              <li>
-                <a class="active" href="portfolio-3.html">Portfolio</a>
-                <ul class="dropdown">
-                  <li><a href="portfolio-2.html">2 Columns</a></li>
-                  <li><a href="portfolio-3.html">3 Columns</a></li>
-                  <li><a class="active" href="portfolio-4.html">4 Columns</a></li>
-                  <li><a href="single-project.html">Single Project</a></li>
-                </ul>
-              </li>
-              <li>
-                <a href="blog.html">Blog</a>
-                <ul class="dropdown">
-                  <li><a href="blog.html">Blog - right Sidebar</a></li>
-                  <li><a href="blog-left-sidebar.html">Blog - Left Sidebar</a></li>
-                  <li><a href="single-post.html">Blog Single Post</a></li>
-                </ul>
-              </li>
-              <li><a href="contact.html">Contact</a></li>
+              <li><a href="contact.html">Contact Us</a></li>
             </ul>
             <!-- End Navigation List -->
           </div>
@@ -324,13 +243,13 @@
       <div class="container">
         <div class="row">
           <div class="col-md-6">
-            <h2>Portfolio</h2>
-            <p>Portfolio Subtitle</p>
+            <h2>Robo Gallery</h2>
+            
           </div>
           <div class="col-md-6">
             <ul class="breadcrumbs">
               <li><a href="#">Home</a></li>
-              <li>Portfolio</li>
+              <li>Robo Gallery</li>
             </ul>
           </div>
         </div>
@@ -346,113 +265,37 @@
 
           <ul id="portfolio-list" data-animated="fadeIn">
             <li>
-              <img src="images/portfolio-1/1.png" alt="" />
-              <div class="portfolio-item-content">
-                <span class="header">Town winter 2013</span>
-                <p class="body">web develpment, design</p>
-              </div>
-              <a href="#"><i class="more">+</i></a>
-
+              <img src="images/robo_gallery/2.jpg" alt="" />
             </li>
+            
             <li>
-              <img src="images/portfolio-1/2.png" alt="" />
-              <div class="portfolio-item-content">
-                <span class="header">Quarterly Musashino</span>
-                <p class="body">web develpment, design</p>
-              </div>
-              <a href="#"><i class="more">+</i></a>
-
+              <img src="images/robo_gallery/3.jpg" alt="" />
             </li>
+
             <li>
-              <img src="images/portfolio-1/3.png" alt="" />
-              <div class="portfolio-item-content">
-                <span class="header">Mainichi April 2014</span>
-                <p class="body">web develpment, design</p>
-              </div>
-              <a href="#"><i class="more">+</i></a>
-
+              <img src="images/robo_gallery/8.jpeg" alt="" />
             </li>
+
             <li>
-              <img src="images/portfolio-1/4.png" alt="" />
-              <div class="portfolio-item-content">
-                <span class="header">Shitamachi Rocket</span>
-                <p class="body">web develpment, design</p>
-              </div>
-              <a href="#"><i class="more">+</i></a>
-
+            <img src="images/robo_gallery/11.jpg" alt="" />
             </li>
+
             <li>
-              <img src="images/portfolio-1/5.png" alt="" />
-              <div class="portfolio-item-content">
-                <span class="header">Majesty express vol. 01</span>
-                <p class="body">web develpment, design</p>
-              </div>
-              <a href="#"><i class="more">+</i></a>
-
+              <img src="images/robo_gallery/12.png" alt="" />
             </li>
+
             <li>
-              <img src="images/portfolio-1/6.png" alt="" />
-              <div class="portfolio-item-content">
-                <span class="header">Monocle issue 69</span>
-                <p class="body">web develpment, design</p>
-              </div>
-              <a href="#"><i class="more">+</i></a>
-
+              <img src="images/robo_gallery/13.jpg" alt="" />
             </li>
+
             <li>
-              <img src="images/portfolio-1/7.png" alt="" />
-              <div class="portfolio-item-content">
-                <span class="header">Monocle issue 69</span>
-                <p class="body">web develpment, design</p>
-              </div>
-              <a href="#"><i class="more">+</i></a>
-
+              <img src="images/robo_gallery/14.jpg" alt="" />
             </li>
+
             <li>
-              <img src="images/portfolio-1/8.png" alt="" />
-              <div class="portfolio-item-content">
-                <span class="header">Monocle issue 69</span>
-                <p class="body">web develpment, design</p>
-              </div>
-              <a href="#"><i class="more">+</i></a>
-
+            <img src="images/robo_gallery/16.jpg" alt="" />
             </li>
-            <li>
-              <img src="images/portfolio-1/9.png" alt="" />
-              <div class="portfolio-item-content">
-                <span class="header">Monocle issue 69</span>
-                <p class="body">web develpment, design</p>
-              </div>
-              <a href="#"><i class="more">+</i></a>
-
-            </li>
-            <li>
-              <img src="images/portfolio-1/10.png" alt="" />
-              <div class="portfolio-item-content">
-                <span class="header">Monocle issue 69</span>
-                <p class="body">web develpment, design</p>
-              </div>
-              <a href="#"><i class="more">+</i></a>
-
-            </li>
-            <li>
-              <img src="images/portfolio-1/11.png" alt="" />
-              <div class="portfolio-item-content">
-                <span class="header">Monocle issue 69</span>
-                <p class="body">web develpment, design</p>
-              </div>
-              <a href="#"><i class="more">+</i></a>
-
-            </li>
-            <li>
-              <img src="images/portfolio-1/12.png" alt="" />
-              <div class="portfolio-item-content">
-                <span class="header">Monocle issue 69</span>
-                <p class="body">web develpment, design</p>
-              </div>
-              <a href="#"><i class="more">+</i></a>
-
-            </li>
+            
           </ul>
           <!-- End Portfolio Items -->
 
@@ -464,34 +307,34 @@
 
     <!-- Start Footer -->
     <footer>
-      <div class="container">
-        <div class="row footer-widgets">
+																									<div class="container">
+																										<div class="row footer-widgets">
 
-          <!-- Start Subscribe & Social Links Widget -->
-          <div class="col-md-3">
-            <div class="footer-widget mail-subscribe-widget">
-              <h4>Get in touch<span class="head-line"></span></h4>
-              <p>Join our mailing list to stay up to date and get notices about our new releases!</p>
-              <form class="subscribe">
-                <input type="text" placeholder="mail@example.com">
-                <input type="submit" class="btn-system" value="Send">
-              </form>
-            </div>
-            <div class="footer-widget social-widget">
-              <h4>Follow Us<span class="head-line"></span></h4>
-              <ul class="social-icons">
-                <li>
-                  <a class="facebook" href="#"><i class="fa fa-facebook"></i></a>
-                </li>
-                <li>
-                  <a class="twitter" href="#"><i class="fa fa-twitter"></i></a>
-                </li>
-                <li>
-                  <a class="google" href="#"><i class="fa fa-google-plus"></i></a>
-                </li>
-                <li>
-                  <a class="dribbble" href="#"><i class="fa fa-dribbble"></i></a>
-                </li>
+
+																											<!-- Start Subscribe & Social Links Widget -->
+																											<div class="col-md-3 col-xs-12">
+																												<div class="footer-widget mail-subscribe-widget">
+																													<h4>Get in touch<span class="head-line"></span></h4>
+																													<p>Join our mailing list to stay up to date and get notices about our new releases!</p>
+																													<form class="subscribe">
+																														<input type="text" placeholder="mail@example.com">
+																															<input type="submit" class="btn-system" value="Send">
+																															</form>
+																														</div>
+																														<div class="footer-widget social-widget">
+																															<h4>Follow Us<span class="head-line"></span></h4>
+																															<ul class="social-icons">
+																																<li>
+																																	<a class="facebook" href="#"><i class="fa fa-facebook"></i></a>
+																																</li>
+																														
+																																<li>
+																																	<a class="instagram" href="#"><i class="fa fa-instagram"></i></a>
+																																</li>
+																																<li>
+																																	<a class="dribbble" href="#"><i class="fa fa-youtube"></i></a>
+																																</li>
+																																<!--
                 <li>
                   <a class="linkdin" href="#"><i class="fa fa-linkedin"></i></a>
                 </li>
@@ -510,132 +353,128 @@
                 <li>
                   <a class="skype" href="#"><i class="fa fa-skype"></i></a>
                 </li>
-              </ul>
-            </div>
-          </div>
-          <!-- .col-md-3 -->
-          <!-- End Subscribe & Social Links Widget -->
+                -->
+																															</ul>
+																														</div>
+																													</div>
+																													<!-- .col-md-3 -->
+																													<!-- End Subscribe & Social Links Widget -->
 
 
-          <!-- Start Twitter Widget -->
-          <div class="col-md-3">
-            <div class="footer-widget twitter-widget">
-              <h4>Twitter Feed<span class="head-line"></span></h4>
-              <ul>
-                <li>
-                  <p><a href="#">@GrayGrids </a> Lorem ipsum dolor et, consectetur adipiscing eli.</p>
-                  <span>28 February 2014</span>
-                </li>
-                <li>
-                  <p><a href="#">@GrayGrids </a> Lorem ipsum dolor et, consectetur adipiscing eli.An Fusce eleifend aliquet nis application.</p>
-                  <span>26 February 2014</span>
-                </li>
-                <li>
-                  <p><a href="#">@GrayGrids </a> Lorem ipsum dolor et, consectetur adipiscing eli.</p>
-                  <span>28 February 2014</span>
-                </li>
-              </ul>
-            </div>
-          </div>
-          <!-- .col-md-3 -->
-          <!-- End Twitter Widget -->
+																													<!-- Start Twitter Widget -->
+																													<!-- .col-md-3 -->   
+																													<!-- End Twitter Widget -->
 
 
-          <!-- Start Flickr Widget -->
-          <div class="col-md-3">
-            <div class="footer-widget flickr-widget">
-              <h4>Flicker Feed<span class="head-line"></span></h4>
-              <ul class="flickr-list">
-                <li>
-                  <a href="images/flickr-01.jpg" class="lightbox">
-                    <img alt="" src="images/flickr-01.jpg">
-                  </a>
-                </li>
-                <li>
-                  <a href="images/flickr-02.jpg" class="lightbox">
-                    <img alt="" src="images/flickr-02.jpg">
-                  </a>
-                </li>
-                <li>
-                  <a href="images/flickr-03.jpg" class="lightbox">
-                    <img alt="" src="images/flickr-03.jpg">
-                  </a>
-                </li>
-                <li>
-                  <a href="images/flickr-04.jpg" class="lightbox">
-                    <img alt="" src="images/flickr-04.jpg">
-                  </a>
-                </li>
-                <li>
-                  <a href="images/flickr-05.jpg" class="lightbox">
-                    <img alt="" src="images/flickr-05.jpg">
-                  </a>
-                </li>
-                <li>
-                  <a href="images/flickr-06.jpg" class="lightbox">
-                    <img alt="" src="images/flickr-06.jpg">
-                  </a>
-                </li>
-                <li>
-                  <a href="images/flickr-07.jpg" class="lightbox">
-                    <img alt="" src="images/flickr-07.jpg">
-                  </a>
-                </li>
-                <li>
-                  <a href="images/flickr-08.jpg" class="lightbox">
-                    <img alt="" src="images/flickr-08.jpg">
-                  </a>
-                </li>
-                <li>
-                  <a href="images/flickr-09.jpg" class="lightbox">
-                    <img alt="" src="images/flickr-09.jpg">
-                  </a>
-                </li>
-              </ul>
-            </div>
-          </div>
-          <!-- .col-md-3 -->
-          <!-- End Flickr Widget -->
+																													<!-- Start Flickr Widget -->
+																													<div class="col-md-3 col-xs-12 col-lg-6">
+																														<div class="footer-widget flickr-widget">
+																															<h4><a href="#" class="gall">robo gallery<span class="head-line"></span></a></h4>
+																															<ul class="flickr-list">
+																																<li>
+																																	<a href="images/flickr-01.jpg" class="lightbox">
+																																		<img alt="" src="images/flickr-01.jpg">
+																																		</a>
+																																	</li>
+																																	<li>
+																																		<a href="images/flickr-02.jpg" class="lightbox">
+																																			<img alt="" src="images/flickr-02.jpg">
+																																			</a>
+																																		</li>
+																																		<li>
+																																			<a href="images/flickr-03.jpg" class="lightbox">
+																																				<img alt="" src="images/flickr-03.jpg">
+																																				</a>
+																																			</li>
+																																			<li>
+																																				<a href="images/flickr-04.jpg" class="lightbox">
+																																					<img alt="" src="images/flickr-04.jpg">
+																																					</a>
+																																				</li>
+																																				<li>
+																																					<a href="images/flickr-05.jpg" class="lightbox">
+																																						<img alt="" src="images/flickr-05.jpg">
+																																						</a>
+																																					</li>
+																																					<li>
+																																						<a href="images/flickr-06.jpg" class="lightbox">
+																																							<img alt="" src="images/flickr-06.jpg">
+																																							</a>
+																																						</li>
+																																						<li>
+																																							<a href="images/flickr-07.jpg" class="lightbox">
+																																								<img alt="" src="images/flickr-07.jpg">
+																																								</a>
+																																							</li>
+																																							<li>
+																																								<a href="images/flickr-08.jpg" class="lightbox">
+																																									<img alt="" src="images/flickr-08.jpg">
+																																									</a>
+																																								</li>
+																																								<li>
+																																									<a href="images/flickr-09.jpg" class="lightbox">
+																																										<img alt="" src="images/flickr-09.jpg">
+																																										</a>
+																																									</li>
+																																								</ul>
+																																							</div>
+
+																																						</div>
+
+																																						<!-- .col-md-3 -->
+																																						<!-- End Flickr Widget -->
 
 
-          <!-- Start Contact Widget -->
-          <div class="col-md-3">
-            <div class="footer-widget contact-widget">
-              <h4><img src="images/footer-margo.png" class="img-responsive" alt="Footer Logo" /></h4>
-              <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
-              <ul>
-                <li><span>Phone Number:</span> +01 234 567 890</li>
-                <li><span>Email:</span> company@company.com</li>
-                <li><span>Website:</span> www.yourdomain.com</li>
-              </ul>
-            </div>
-          </div>
-          <!-- .col-md-3 -->
-          <!-- End Contact Widget -->
+																																						<!-- Start Contact Widget -->
+																																						<div class="col-md-3 col-xs-12">
+																																							<div class="footer-widget contact-widget">
+																																								<h4><img src="images/robott.png" class="img-responsive" alt="Footer Logo" /></h4>
+																																								<h3> <span class="cca"> Part Of CCA</span></h3>
+																																								<ul>
+																																									<li><span>Address:</span> NIT Durgapur, West Bengal, India - 713209</li> 
+																																									<li><span>Phone Number:</span>+91 99999999999</li>
+																																									<li><span>Email:</span> rcnitdgp@gmail.com</li>
+																																									<li><span>Website:</span> www.robocell.com</li>
+																																								</ul>
+																																							</div>
+
+																																							<h6 class="builder" >Website by:-
+																																								<br>LOKESH NANDANWAR,<br>Dept. Of IT, NIT DURGAPUR.<span class="head-line"></span></h6>
+																																								</div>
+																																								<!-- .col-md-3 -->
+																																								<!-- End Contact Widget -->
 
 
-        </div>
-        <!-- .row -->
+																																							</div>
+																																							<!-- .row -->
 
-        <!-- Start Copyright -->
-        <div class="copyright-section">
-          <div class="row">
-            <div class="col-md-6">
-              <p>&copy; 2014 Margo - All Rights Reserved</p>
-            </div>
+																																							<!-- Start Copyright -->
+																																							<div class="copyright-section">
+																																								<div class="row">
+																																									<div class="col-md-6">
+																																										<p>&copy; 2018 lokesh nandanwar - All Rights Reserved  </p>
+																																									</div>
+																																									<!-- .col-md-6 
             <div class="col-md-6">
               <ul class="footer-nav">
-                <li><a href="#">Sitemap</a></li>
-                <li><a href="#">Privacy Policy</a></li>
-                <li><a href="#">Contact</a></li>
+                <li><a href="#">Sitemap</a>
+                </li>
+                <li><a href="#">Privacy Policy</a>
+                </li>
+                <li><a href="#">Contact</a>
+                </li>
               </ul>
-            </div>
-          </div>
-        </div>
-        <!-- End Copyright -->
+            
+            -->
+																																								</div>
+																																								<!-- .col-md-6 -->
+																																							</div>
+																																							<!-- .row -->
+																																						</div>
+																																						<!-- End Copyright -->
 
-      </div>
-    </footer>
+																																					</div>
+																																				</footer>
     <!-- End Footer -->
 
   </div>
