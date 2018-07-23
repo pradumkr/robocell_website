@@ -212,6 +212,7 @@
                         <li><i class="fa fa-check-circle"></i> 2pcs. 300rpm Motors</li> <br> <img src="images/bluetooth/motor.jpg">
                         <li><i class="fa fa-check-circle"></i> L298 Motor Driver</li> <img src="images/bluetooth/driver.jpg"> <br> <br>
                         <li><i class="fa fa-check-circle"></i> 3pcs. Digital IR Sensors</li> <img src="images/autonomous/ir.jpg"> <br> <br>
+                        <li><i class="fa fa-check-circle"></i> Ultrasound Sensor Module</li> <img src="images/autonomous/ultrasonic.jpg"> <br> <br>
                       </ul>
                     </div>
                   </div>  
@@ -373,7 +374,67 @@ void sright()
   digitalWrite(10,HIGH);
   digitalWrite(11,LOW);
 }
-                  </pre>
+                  </pre> <hr>
+                  
+              <div class="tab-pane fade in active" id="tab-4">
+                <p><strong class="accent-color"> About the Ultrasonic sensor </strong> </p>
+
+                  <div class="col-md-12">
+                    <ul class="icons-list">
+                      <li><i class="fa fa-check-circle"></i> Ultrasonic sensor uses ultrasonic sound to detect objects near it. It sends a sound wave and the reflected sound wave is detected.   </li> <br> <center> <img src="images/autonomous/image.jpg"> </center> <br>                    
+                      <li><i class=" fa fa-check-circle"></i>By measuring the time taken to get back can be used to measure the distance between object and sensor. The ultrasonic sensor not only detects the presence of object but also its distance. </li>
+                        
+                      <li><i class="fa fa-check-circle"></i> The ultrasonic sensor has 4 pins namely, Vcc, GND, trigger and echo. The trigger pin is used to trigger the ultrasonic sound. </li> 
+                      <li><i class="fa fa-check-circle"></i> The echo pin is used to sense the received wave.   </li>  
+                    </ul>
+                    <hr>
+                  </div>
+              </div>
+
+              <div class="tab-pane fade in active" id="tab-5">
+                <p><strong class="accent-color"> Measuring Distance using the Ultrasonic sensor </strong> </p>
+
+                  <div class="col-md-12">
+                    <ul class="icons-list">
+                      <li><i class="fa fa-check-circle"></i> We can measure the distance using ultrasonic sensors by using a simple formula:</li>                    
+                        <p> Distance (in cms) =(340*100*ping-time)/2 </p>
+                        <p> where, ping-time is the time taken by the ultrasonic sound to reach the echo after being emitted by the trigger.</p>
+                    </ul>
+                    <hr>
+                  </div>
+              </div>
+
+              <div class="tab-pane fade in active" id="tab-6">
+                <p><strong class="accent-color"> Working Principle of the Obstacle-avoider </strong> </p>
+                  <center><img src="images/autonomous/image1.jpg"></center>
+
+                  <div class="col-md-12">
+                    <ul class="icons-list">
+                      <li><i class="fa fa-check-circle"></i> The distance from the ultrasonic sensor placed in front the bot is measured.</li>                    
+                      <li><i class="fa fa-check-circle"></i> While the distance is more than a particular clearance distance, the bot moves forward.</li>  
+                      <li><i class="fa fa-check-circle"></i> The bot takes turn and moves in any specified direction, when this distance falls less than the given distance.</li>
+                    </ul>
+                    <hr>
+                  </div>
+              </div>
+
+              <div class="tab-pane fade in active" id="tab-7">
+                <p><strong class="accent-color"> Other Applications of the ULtrasonic sensor: </strong> </p>
+                  <center><img src="images/autonomous/image2.jpg"></center>
+
+                  <div class="col-md-12">
+                    <ul class="icons-list">
+                      <li><i class="fa fa-check-circle"></i> Wall follower: A robot which navigates with the help of walls in a room or in a corridor.</i> </li>                    
+                      <li><i class="fa fa-check-circle"></i> Measure your height: By range finding you can accurately measure your height.</li>
+                      <li><i class="fa fa-check-circle"></i> Burglar alarm: Set the ultrasonic sensor so as it detects presence and ring alarm.</li>
+                      <li><i class="fa fa-check-circle"></i> Automatic door functioning: Automatically close or open a door based on presence of humans. This is similar thing which you will see in lifts daily.</li>
+                      <li><i class="fa fa-check-circle"></i> Communication: By proper coding transmit data between two systems.</li>
+                      <li><i class="fa fa-check-circle"></i> Create a Virtual world: Define objects and see their movements in a virtual world created by you in your PC with the help of python. </li>  
+                    </ul>
+                    <hr>
+                  </div>
+              </div>
+                  
               </div>
               
 
